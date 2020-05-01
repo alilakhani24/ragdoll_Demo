@@ -1,5 +1,5 @@
 # ragdoll_Demo
-This is a demo video of my ragdoll project. The code can be shared upon request 
+This is a demo video of my ragdoll project. The code is in Java and can be shared upon request 
 
 ### App platform 
 
